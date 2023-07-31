@@ -3,7 +3,7 @@
 I'm Sagar Lama, Fullstack Developer
 
 - :globe_with_meridians: [Website](https://sagarlama.com)
-- :book: [Blogs](https://blogs.sagarlama.com)
+- :book: [Blogs](https://sagarlama.com/post)
 
 <!--
 **sagarPakhrin/sagarPakhrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
